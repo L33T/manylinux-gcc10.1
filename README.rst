@@ -17,11 +17,13 @@ manylinux2010-gcc10.1
 
 x86-64 image: ``p0nkz/manylinux2010-x86_64-gcc10.1``
 
-.. image:: https://img.shields.io/docker/image-size/p0nkz/manylinux2010-x86_64-gcc10.1   :alt: Docker Image Size (latest by date)
+.. image:: https://img.shields.io/docker/image-size/p0nkz/manylinux2010-x86_64-gcc10.1
+   :alt: Docker Image Size (latest by date)
 
 manylinux2014-gcc10.1
 ~~~~~~~~~~~~~~~~~~~~~
 
 x86-64 image: ``p0nkz/manylinux2014-x86_64-gcc10.1``
 
-.. image:: https://img.shields.io/docker/image-size/p0nkz/manylinux2014-x86_64-gcc10.1   :alt: Docker Image Size (latest by date)
+.. image:: https://img.shields.io/docker/image-size/p0nkz/manylinux2014-x86_64-gcc10.1
+   :alt: Docker Image Size (latest by date)
